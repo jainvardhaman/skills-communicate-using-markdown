@@ -21,3 +21,11 @@ var myVar = "Hello, world!";
 ``` python
 print ("This is a python script")
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+1. This is numbered list
+2. no.2
+3. no.3
