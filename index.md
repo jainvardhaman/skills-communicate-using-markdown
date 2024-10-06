@@ -6,3 +6,5 @@
 ###### This is a H6 Heading
 
 The above lines are ment to teach different types of Heading in Markdown markup language
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
