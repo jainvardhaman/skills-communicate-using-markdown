@@ -8,3 +8,16 @@
 The above lines are ment to teach different types of Heading in Markdown markup language
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` python
+print ("This is a python script")
+```
